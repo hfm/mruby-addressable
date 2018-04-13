@@ -1,5 +1,5 @@
 name: mruby-addressable
-description: Addressable class
+description: mruby port of ruby's Addressable. URI Implementation.
 author: Okumura Takahiro
 website: https://github.com/hfm/mruby-addressable
 protocol: git
